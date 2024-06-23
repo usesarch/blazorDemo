@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\blazorstuff\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\blazorstuff.bundle.scp.css",
+      "PackagePath": "staticwebassets\\blazorstuff.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\blazorstuff\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\blazorstuff\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\blazorstuff\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\blazorstuff\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.blazorstuff.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.blazorstuff.props",
+      "PackagePath": "build\\blazorstuff.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.blazorstuff.props",
+      "PackagePath": "buildMultiTargeting\\blazorstuff.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.blazorstuff.props",
+      "PackagePath": "buildTransitive\\blazorstuff.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
