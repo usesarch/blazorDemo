@@ -1,12 +1,14 @@
 ## Hacking together something silly? Still very uneducated (as of the 21st century)
 
-[] - homepage dashboard?
+## To-Do List
 
-[] - addcontainer forms thing
+- [ ] Homepage dashboard?
+- [ ] Add container forms thing
+- [ ] History quickgrid + search + filter
 
-[] - history quickgrid + search + filter
-
-things to experiment with: 
-    db - efcore & repodb 
-    ui frameworks (or just sit down and learn what the hell a css is?)
-    csharp stuff like LINQ
+## Things to experiment with:
+- DB
+  - EF Core
+  - RepoDB
+- UI frameworks (or just sit down and learn what the hell a CSS is?)
+- C# stuff like LINQ
